@@ -8,6 +8,7 @@ Pancake recipe
  * olive oil
  * salt
  * sugar (optional)
+ * chocolate
 
 > Instructions:
 1. Mix the flour, eggs and milk together with a bit of olive oil and a pinch of salt (including some sugar if you want).
@@ -16,4 +17,5 @@ Pancake recipe
 4. Flip the pancake when the pancake is brown on the bottom.
 5. Bake until both sides are golden.
 6. Repeat steps 2 - 5 until all of the mixture is used.
-7. Enjoy!
+7. Add choclate
+8. Enjoy!
